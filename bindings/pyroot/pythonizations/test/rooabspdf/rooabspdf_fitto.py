@@ -3,7 +3,7 @@ import unittest
 import ROOT
 
 
-class RooAbsCollectionFitTo(unittest.TestCase):
+class RooAbsPdfFitTo(unittest.TestCase):
     """
     Test for the FitTo callable.
     """

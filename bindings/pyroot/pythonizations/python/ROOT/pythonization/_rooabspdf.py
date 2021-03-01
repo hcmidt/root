@@ -64,3 +64,4 @@ def pythonize_rooabspdf(klass, name):
         klass.fitTo = _fitTo
 
     return True
+    
